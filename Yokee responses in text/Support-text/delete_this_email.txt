@@ -1,0 +1,4 @@
+Hi,
+
+Have you subscribed to VIP (chose to upgrade in the app)?
+If not I'll just delete the account from our database.

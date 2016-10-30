@@ -1,0 +1,7 @@
+Hi,
+
+Sorry for the inconvenience.
+This is a known bug we're working on.
+We'll try to release an update to fix that ASAP.
+
+For now please check that you're logged in and reinstall the app.

@@ -1,0 +1,6 @@
+Hi,
+
+Sorry for the inconvenience.
+
+Could you try to logout from your Yokee account  and login again?
+This is a bug we're currently working on.

@@ -1,0 +1,6 @@
+Hi,
+
+To make the sound louder on the mic, when recording, insert headphones and press the speaker icon at the bottom of the screen.
+
+Then make sure the scrolling bar is closer to the microphone icon.
+
